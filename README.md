@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently building [Ninthgrid](https://beta.ninthgrid.com)
+
+Hey there 👋! I'm Dami, a software engineer. I love building scalable web apps and APIs using technologies like Node.js, NestJS, React.js, and MySQL
 
 
 ## 🌐 Socials:
