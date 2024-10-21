@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-Hey there 👋! I'm Dami, a software engineer. I love building scalable web apps and APIs using technologies like Node.js, NestJS, React.js, and MySQL
+Hey there 👋! I'm Dami, a software engineer.
+
+I love building scalable web apps and APIs using technologies like Node.js, NestJS, React.js, and MySQL
 
 
 ## 🌐 Socials:
